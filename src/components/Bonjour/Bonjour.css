@@ -1,0 +1,14 @@
+p {
+  margin: 0;
+}
+
+.nom {
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.age {
+  color: rgb(192, 190, 190);
+  font-size: medium;
+  font-weight: bold;
+}
